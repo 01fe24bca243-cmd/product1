@@ -3,7 +3,7 @@ def get_product_details(prd_id, name, quantity, price):
         f"Product ID: {prd_id}\n"
         f"Product Name: {name}\n"
         f"Quantity: {quantity}\n"
-        f"Price: ₹{price}\n"
+        f"Price: {price}\n"
     )
 
 # Example usage
